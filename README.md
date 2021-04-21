@@ -4,7 +4,7 @@ This is a simple program to display "Hello World" to the console.
 
 The purpose of creating this software is to reinforce how to demonstrate using Python, VSCode, Git, and Github together.
 
-[Software Demo Video](https://youtu.be/byuF0-IEnUY)
+Here is a brief video demoing my software: [Software Demo Video](https://youtu.be/byuF0-IEnUY)
 
 # Development Environment
 
